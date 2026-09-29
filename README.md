@@ -1,7 +1,7 @@
 # Hi, I'm Udara-Paramie 
 
-AI Undergraduate
-Aspiring AI Engineer
+AI Undergraduate|
+Aspiring AI Engineer|
 Interested in AI + Oceanography
 
 ## Currently Learning
@@ -17,11 +17,11 @@ Interested in AI + Oceanography
 - Git & GitHub
 
 - ## Skills
-- 
+ 
 - C/C++ | Java | HTML | CSS | SQL | Git | GitHub
 
 - ## My Interests
-- 
+ 
 - Artificial Intelligence
 - Marine Technology
 - Machine Learning
